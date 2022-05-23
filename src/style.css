@@ -219,8 +219,7 @@ td, th {
 }
 
 .mapa-conteudo {
-	width: 940px;
-	margin: 0 auto;
+	text-align: center;
 }
 
 .mapa p {
