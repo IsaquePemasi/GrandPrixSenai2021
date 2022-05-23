@@ -37,6 +37,14 @@ nav a:hover {
 	text-decoration: underline;
 }
 
+.input-padrao{
+	text-align: center;
+}
+
+.formulario{
+	text-align: center;
+}
+
 .produtos {
 	width: 940px;
 	margin: 0 auto;
@@ -109,10 +117,12 @@ form label, form legend {
 }
 
 .input-padrao {
+
+	text-align: center;
 	display: block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
-	width: 50%;
+	width: 100%;
 }
 
 .checkbox {
