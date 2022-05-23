@@ -1,0 +1,1 @@
+https://www.portaldaindustria.com.br/senai/canais/grand-prix-de-inovacao/
