@@ -116,13 +116,19 @@ form label, form legend {
 	margin: 0 0 10px;
 }
 
+.horarioEfeira{
+	text-align: center;
+	width: 100%;
+
+}
+
 .input-padrao {
 
 	text-align: center;
 	display: block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
-	width: 100%;
+	width: 96%;
 }
 
 .checkbox {
