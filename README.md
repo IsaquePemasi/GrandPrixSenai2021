@@ -12,3 +12,7 @@ https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/houseWar
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/houseWareVerso.jpeg
 <h2>Reconhecimento Facial e Cortinas de Luz de Segurança</h2>
 Nosso sistema conta, também, com RECONHECIMENTO FACIAL , na porta da sua residência e CORTINAS DE LUZ DE SEGURANÇA, mantendo a SEGURANÇA das crianças, impedindo que eles entrem ou se desloquem em áreas de risco, definidas pelo cliente.
+<br>
+https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento.jpeg
+https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento2.jpeg
+https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/cortina.webp
