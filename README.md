@@ -10,4 +10,4 @@ OBS: TODOS OS MATERIAIS USADOS, SÃO COM RESPONSÁBILIDADE AMBIENTAL.
 <br>
 
 <h2>Reconhecimento Facial e Cortinas de Luz de Segurança</h2>
-Nosso sistema conta, também, com RECONHECIMENTO FACIAL , na porta da sua residência e CORTINAS DE LUZ DE SEGURANÇA, mantendo a SEGURANÇA das crianças, impedindo que eles entrem ou se desloquem em áreas de risco, definidas pelo cliente. [texte](img/banner.jpg)
+Nosso sistema conta, também, com RECONHECIMENTO FACIAL , na porta da sua residência e CORTINAS DE LUZ DE SEGURANÇA, mantendo a SEGURANÇA das crianças, impedindo que eles entrem ou se desloquem em áreas de risco, definidas pelo cliente. [teste](banner.jpg)
