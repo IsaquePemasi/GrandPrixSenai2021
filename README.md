@@ -1,4 +1,4 @@
-<img src = "/img/homeimage.png" >
+<img src = "/img/homeimage.png" alt="Home image">
 
 <h1>Desenvolvido na competição de Hackathon, SENAI GRAND PRIX 2021</h1>
 https://www.portaldaindustria.com.br/senai/canais/grand-prix-de-inovacao/
