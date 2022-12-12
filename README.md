@@ -1,4 +1,4 @@
-Vercel - https://grand-prix-senai2021.vercel.app/
+Deploy na Vercel - https://grand-prix-senai2021.vercel.app/
 
 <img src = "/img/homeimage.png" alt="Home image">
 
