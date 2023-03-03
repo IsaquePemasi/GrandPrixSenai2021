@@ -3,18 +3,16 @@
 <h1>Developed in the Hackathon competition, SENAI GRAND PRIX 2021</h1>
 https://www.portaldaindustria.com.br/senai/canais/grand-prix-de-inovacao/
 <br>
-<h2>Sobre o SAFE HOUSE</h2>
-Nosso software monitora as conexões da sua rede, com o auxílio do nosso SAFE HOUSEWARE (hardware que fica na sua casa), gera relatórios e alertas, mantendo a SEGURANÇA dos seus dispositivos, das suas contas e das crianças. Nossa missão é: "Proporcionar segurança e qualidade de vida aos clientes, através da automação". Oferecemos softwares atualizados e antenados às mudanças no mundo da tecnologia. O SAFE HOUSE possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+<h2>About SAFE HOUSE</h2>
+Our software monitors your network connections, with the help of our SAFE HOUSEWARE (hardware that stays in your home), generates reports and alerts, keeping your devices, your accounts and your children SAFE. Our mission is: "Provide safety and quality of life to customers through automation". We offer up-to-date software that is attuned to changes in the world of technology. SAFE HOUSE has a standard of excellence and agility, guaranteeing quality and satisfaction of our customers.
 
-<h2>Sobre o SAFE HOUSEWARE</h2>
-Nosso Hardware (SAFE HOUSEWARE) faz conexões com os dispositivos da sua rede, através de radiofrequência, mantendo a SEGURANÇA dos seus dispositivos, das suas contas e das crianças.
-OBS: TODOS OS MATERIAIS USADOS, SÃO COM RESPONSÁBILIDADE AMBIENTAL.
-<br>
+<h2>About SAFE HOUSEWARE</h2>
+Our Hardware (SAFE HOUSEWARE) makes connections with the devices on your network, through radio frequency, maintaining the SAFETY of your devices, your accounts and children.
+NOTE: ALL MATERIALS USED ARE ENVIRONMENTALLY RESPONSIBLE.<br>
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/houseWareFrente.jpeg
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/houseWareVerso.jpeg
-<h2>Reconhecimento Facial e Cortinas de Luz de Segurança</h2>
-Nosso sistema conta, também, com RECONHECIMENTO FACIAL , na porta da sua residência e CORTINAS DE LUZ DE SEGURANÇA, mantendo a SEGURANÇA das crianças, impedindo que eles entrem ou se desloquem em áreas de risco, definidas pelo cliente.
-<br>
+<h2>Facial Recognition and Safety Light Curtains</h2>
+Our system also has FACIAL RECOGNITION at the door of your residence and SAFETY LIGHT CURTAINS, maintaining the SAFETY of children, preventing them from entering or moving in risk areas, defined by the customer.<br>
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento.jpeg
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento2.jpeg
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/cortina.webp
