@@ -16,3 +16,5 @@ Our system also has FACIAL RECOGNITION at the door of your residence and SAFETY 
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento.jpeg
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/monitoramento2.jpeg
 https://github.com/IsaqueZaratustra/Grand-Prix-Senai-2021/blob/main/img/cortina.webp
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
